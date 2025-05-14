@@ -1,0 +1,4 @@
+inputName,address,city,state,zipCode,cardType,creditCardNumber,creditCardMonth,creditCardYear,nameOnCard,rememberMe
+Giridhar,Chettiar,Adelaide,SA,5033,visa,4.11E+15,11,2027,Giridhar Chettiar,on
+John,Doe,Sydney,NSW,2000,mastercard,5.56E+15,8,2026,John Doe,on
+Priya,Verma,Melbourne,VIC,3000,visa,4.01E+15,4,2028,Priya Verma,on
