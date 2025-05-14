@@ -776,7 +776,7 @@ println msg
               <connectTime>true</connectTime>
             </value>
           </objProp>
-          <stringProp name="filename"></stringProp>
+          <stringProp name="filename">C:\Jmeter-Automation-Scripts\Results\2025-05-14_14-13-25\2025-05-14_14-13-25_results.jtl</stringProp>
         </ResultCollector>
         <hashTree/>
       </hashTree>
